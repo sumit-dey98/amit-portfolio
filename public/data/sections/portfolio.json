@@ -113,8 +113,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "TBZ",
-                            "text": "A full-stack web application built with <b>Inertia.js</b>, <b>React</b>, and a <b>Laravel</b> backend, delivering a seamless SPA experience with server-side power.",
+                            "title": "TBZ Engineering",
+                            "text": "E-commerce and service platform for <b>TBZ Engineering</b>, a trusted provider of desktop PCs, laptops, and tech solutions in Bangladesh, built with <b>Inertia.js</b>, <b>React</b>, and a <b>Laravel</b> backend.",
                             "tags": [
                                 "Inertia.js",
                                 "React",
@@ -122,7 +122,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una aplicación web full-stack construida con <b>Inertia.js</b>, <b>React</b> y un backend de <b>Laravel</b>.",
+                            "text": "Plataforma de comercio electrónico para <b>TBZ Engineering</b>, proveedor de PCs, laptops y soluciones tecnológicas en Bangladesh, construida con <b>Inertia.js</b>, <b>React</b> y <b>Laravel</b>.",
                             "tags": [
                                 "Inertia.js",
                                 "React",
@@ -130,7 +130,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une application web full-stack construite avec <b>Inertia.js</b>, <b>React</b> et un backend <b>Laravel</b>.",
+                            "text": "Plateforme e-commerce pour <b>TBZ Engineering</b>, fournisseur de PCs, laptops et solutions tech au Bangladesh, construite avec <b>Inertia.js</b>, <b>React</b> et <b>Laravel</b>.",
                             "tags": [
                                 "Inertia.js",
                                 "React",
@@ -138,7 +138,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "<b>Inertia.js</b>, <b>React</b>, <b>Laravel</b> 백엔드로 구축된 풀스택 웹 애플리케이션입니다.",
+                            "text": "방글라데시의 PC, 노트북 및 기술 솔루션 공급업체 <b>TBZ Engineering</b>을 위한 이커머스 플랫폼으로 <b>Inertia.js</b>, <b>React</b>, <b>Laravel</b>로 구축되었습니다.",
                             "tags": [
                                 "Inertia.js",
                                 "React",
@@ -165,7 +165,7 @@
                             }
                         ],
                         "screenshots": [
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642154/amit-portfolio/screens/saon-screen-1.png",
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642154/amit-portfolio/screens/saon-screen-1.png",
                             "https://res.cloudinary.com/sumitdey/image/upload/v1774642156/amit-portfolio/screens/saon-screen-2.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
@@ -174,35 +174,35 @@
                     "locales": {
                         "en": {
                             "title": "Saon SA",
-                            "text": "An <b>Inventory Management Software</b> built with <b>Laravel</b>, enabling businesses to efficiently track stock, manage orders, and streamline supply chain operations.",
+                            "text": "A <b>logistics and smart storage</b> platform for Saon SA, offering integrated solutions for warehousing, inventory management, procurement, and delivery operations, built with <b>Laravel</b>.",
                             "tags": [
                                 "Laravel",
-                                "Inventory",
-                                "Management"
+                                "Logistics",
+                                "Storage"
                             ]
                         },
                         "es": {
-                            "text": "Un <b>Software de Gestión de Inventario</b> construido con <b>Laravel</b>.",
+                            "text": "Plataforma de <b>logística y almacenamiento inteligente</b> para Saon SA, con soluciones integradas para almacenaje, gestión de inventario y operaciones de entrega, construida con <b>Laravel</b>.",
                             "tags": [
                                 "Laravel",
-                                "Inventario",
-                                "Gestión"
+                                "Logística",
+                                "Almacenamiento"
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>logiciel de gestion des stocks</b> construit avec <b>Laravel</b>.",
+                            "text": "Plateforme de <b>logistique et stockage intelligent</b> pour Saon SA, offrant des solutions intégrées pour l'entreposage, la gestion des stocks et les opérations de livraison, construite avec <b>Laravel</b>.",
                             "tags": [
                                 "Laravel",
-                                "Inventaire",
-                                "Gestion"
+                                "Logistique",
+                                "Stockage"
                             ]
                         },
                         "ko": {
-                            "text": "<b>Laravel</b>로 구축된 <b>재고 관리 소프트웨어</b>입니다.",
+                            "text": "Saon SA를 위한 <b>물류 및 스마트 보관</b> 플랫폼으로, 창고 관리, 재고 관리, 조달 및 배송 운영을 위한 통합 솔루션을 <b>Laravel</b>로 구축했습니다.",
                             "tags": [
                                 "Laravel",
-                                "재고",
-                                "관리"
+                                "물류",
+                                "보관"
                             ]
                         }
                     }
@@ -210,7 +210,7 @@
                 {
                     "id": 3,
                     "categoryId": "category_fullstack",
-                   "img": "/images/favicons/blue-ventures.png",
+                    "img": "/images/favicons/blue-ventures.png",
                     "faIcon": "fa-solid fa-water",
                     "faIconColors": {
                         "bg": "#1a3a3f",
@@ -234,7 +234,7 @@
                     "locales": {
                         "en": {
                             "title": "Blue Ventures",
-                            "text": "A full-stack web application developed with <b>Laravel</b> and <b>React</b>, powering the digital presence of Blue Ventures Ltd.",
+                            "text": "A full-stack web application built with <b>Laravel</b> and <b>React</b> for Blue Ventures Ltd, supporting their digital operations and online presence.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -242,7 +242,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una aplicación web full-stack desarrollada con <b>Laravel</b> y <b>React</b>.",
+                            "text": "Aplicación web full-stack construida con <b>Laravel</b> y <b>React</b> para Blue Ventures Ltd.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -250,7 +250,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une application web full-stack développée avec <b>Laravel</b> et <b>React</b>.",
+                            "text": "Application web full-stack construite avec <b>Laravel</b> et <b>React</b> pour Blue Ventures Ltd.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -258,7 +258,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "<b>Laravel</b>과 <b>React</b>로 개발된 풀스택 웹 애플리케이션입니다.",
+                            "text": "Blue Ventures Ltd의 디지털 운영을 지원하는 <b>Laravel</b>과 <b>React</b>로 구축된 풀스택 웹 애플리케이션입니다.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -294,7 +294,7 @@
                     "locales": {
                         "en": {
                             "title": "BMMDP",
-                            "text": "A full-stack dashboard application built with <b>React</b> and a <b>Laravel</b> backend, providing user management and data tracking for the BMMDP platform.",
+                            "text": "An asset management dashboard built with <b>React</b> and a <b>Laravel</b> backend for the Bangladesh Meteorological Department Development Project, providing user and data tracking capabilities.",
                             "tags": [
                                 "React",
                                 "Laravel",
@@ -302,7 +302,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una aplicación de panel full-stack construida con <b>React</b> y un backend de <b>Laravel</b>.",
+                            "text": "Panel de gestión de activos construido con <b>React</b> y <b>Laravel</b> para el Proyecto de Desarrollo del Departamento Meteorológico de Bangladesh.",
                             "tags": [
                                 "React",
                                 "Laravel",
@@ -310,7 +310,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une application tableau de bord full-stack construite avec <b>React</b> et un backend <b>Laravel</b>.",
+                            "text": "Tableau de bord de gestion d'actifs construit avec <b>React</b> et <b>Laravel</b> pour le projet de développement du département météorologique du Bangladesh.",
                             "tags": [
                                 "React",
                                 "Laravel",
@@ -318,7 +318,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "<b>React</b>와 <b>Laravel</b> 백엔드로 구축된 풀스택 대시보드 애플리케이션입니다.",
+                            "text": "방글라데시 기상청 개발 프로젝트를 위한 <b>React</b>와 <b>Laravel</b> 백엔드로 구축된 자산 관리 대시보드입니다.",
                             "tags": [
                                 "React",
                                 "Laravel",
@@ -346,7 +346,7 @@
                         ],
                         "screenshots": [
                             "https://res.cloudinary.com/sumitdey/image/upload/v1774642164/amit-portfolio/screens/shokkhom-screen-1.png",
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642166/amit-portfolio/screens/shokkhom-screen-2.png"
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642166/amit-portfolio/screens/shokkhom-screen-2.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
@@ -354,7 +354,7 @@
                     "locales": {
                         "en": {
                             "title": "Shokkhom",
-                            "text": "A full-stack platform built with <b>Laravel</b> and <b>React</b>, designed to support community empowerment and development initiatives.",
+                            "text": "A full-stack platform built with <b>Laravel</b> and <b>React</b> for Shokkhom (সক্ষম), a Bangladeshi initiative focused on empowerment and community development.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -362,7 +362,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una plataforma full-stack construida con <b>Laravel</b> y <b>React</b>.",
+                            "text": "Plataforma full-stack construida con <b>Laravel</b> y <b>React</b> para Shokkhom, iniciativa bangladesí de empoderamiento y desarrollo comunitario.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -370,7 +370,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une plateforme full-stack construite avec <b>Laravel</b> et <b>React</b>.",
+                            "text": "Plateforme full-stack construite avec <b>Laravel</b> et <b>React</b> pour Shokkhom, initiative bangladaise axée sur l'autonomisation et le développement communautaire.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -378,7 +378,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "<b>Laravel</b>과 <b>React</b>로 구축된 풀스택 플랫폼입니다.",
+                            "text": "방글라데시 역량 강화 및 지역 사회 개발 이니셔티브 Shokkhom(সক্ষম)을 위한 <b>Laravel</b>과 <b>React</b>로 구축된 풀스택 플랫폼입니다.",
                             "tags": [
                                 "Laravel",
                                 "React",
@@ -414,34 +414,34 @@
                     "locales": {
                         "en": {
                             "title": "Suniti",
-                            "text": "A <b>Laravel</b>-powered web platform built for Suniti, delivering robust backend functionality and a clean, accessible user experience.",
+                            "text": "A <b>Laravel</b>-powered database platform for the Suniti Project, providing a secure registry system for domestic workers in Bangladesh with bilingual (Bengali/English) support.",
                             "tags": [
                                 "Laravel",
-                                "Backend",
+                                "Database",
                                 "Web"
                             ]
                         },
                         "es": {
-                            "text": "Una plataforma web impulsada por <b>Laravel</b> construida para Suniti.",
+                            "text": "Plataforma de base de datos impulsada por <b>Laravel</b> para el Proyecto Suniti, con un sistema de registro seguro para trabajadoras domésticas en Bangladesh.",
                             "tags": [
                                 "Laravel",
-                                "Backend",
+                                "Base de Datos",
                                 "Web"
                             ]
                         },
                         "fr": {
-                            "text": "Une plateforme web propulsée par <b>Laravel</b> construite pour Suniti.",
+                            "text": "Plateforme de base de données propulsée par <b>Laravel</b> pour le Projet Suniti, offrant un système de registre sécurisé pour les travailleurs domestiques au Bangladesh.",
                             "tags": [
                                 "Laravel",
-                                "Backend",
+                                "Base de Données",
                                 "Web"
                             ]
                         },
                         "ko": {
-                            "text": "Suniti를 위해 구축된 <b>Laravel</b> 기반 웹 플랫폼입니다.",
+                            "text": "방글라데시 가사 노동자를 위한 보안 등록 시스템을 제공하는 Suniti 프로젝트의 <b>Laravel</b> 기반 데이터베이스 플랫폼입니다.",
                             "tags": [
                                 "Laravel",
-                                "백엔드",
+                                "데이터베이스",
                                 "웹"
                             ]
                         }
@@ -474,7 +474,7 @@
                     "locales": {
                         "en": {
                             "title": "Immigration Question",
-                            "text": "A <b>React</b>-based web platform providing immigration guidance and resources, with a focus on accessible and informative user experience.",
+                            "text": "A <b>React</b>-based platform connecting people with <b>licensed immigration attorneys</b>, offering a free open forum to post immigration questions and get expert legal answers.",
                             "tags": [
                                 "React",
                                 "Immigration",
@@ -482,7 +482,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una plataforma web basada en <b>React</b> que proporciona orientación sobre inmigración.",
+                            "text": "Plataforma basada en <b>React</b> que conecta a personas con <b>abogados de inmigración licenciados</b>, ofreciendo un foro abierto para publicar preguntas de inmigración.",
                             "tags": [
                                 "React",
                                 "Inmigración",
@@ -490,7 +490,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une plateforme web basée sur <b>React</b> fournissant des conseils en matière d'immigration.",
+                            "text": "Plateforme <b>React</b> mettant en relation des personnes avec des <b>avocats en immigration agréés</b>, offrant un forum ouvert pour poser des questions d'immigration.",
                             "tags": [
                                 "React",
                                 "Immigration",
@@ -498,7 +498,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "이민 안내 및 정보를 제공하는 <b>React</b> 기반 웹 플랫폼입니다.",
+                            "text": "이민 관련 질문을 무료로 게시하고 <b>공인 이민 변호사</b>로부터 답변을 받을 수 있는 <b>React</b> 기반 플랫폼입니다.",
                             "tags": [
                                 "React",
                                 "이민",
@@ -526,43 +526,43 @@
                         ],
                         "screenshots": [
                             "https://res.cloudinary.com/sumitdey/image/upload/v1774642128/amit-portfolio/screens/myls-screen-1.png",
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642130/amit-portfolio/screens/myls-screen-2.png"
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642130/amit-portfolio/screens/myls-screen-2.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "My Legal Software",
-                            "text": "A <b>React</b>-powered legal tech platform offering immigration speed tools and streamlined case management for legal professionals.",
+                            "title": "Immigration Speed",
+                            "text": "A <b>React</b>-powered immigration <b>case management software</b> by MyLegalSoftware, designed to streamline and manage immigration cases with speed and precision for legal professionals.",
                             "tags": [
                                 "React",
                                 "Legal Tech",
-                                "Immigration"
+                                "Case Management"
                             ]
                         },
                         "es": {
-                            "text": "Una plataforma de tecnología legal impulsada por <b>React</b> con herramientas de inmigración.",
+                            "text": "Software de <b>gestión de casos de inmigración</b> impulsado por <b>React</b> de MyLegalSoftware, diseñado para agilizar casos de inmigración para profesionales legales.",
                             "tags": [
                                 "React",
                                 "Legal Tech",
-                                "Inmigración"
+                                "Gestión de Casos"
                             ]
                         },
                         "fr": {
-                            "text": "Une plateforme juridique propulsée par <b>React</b> avec des outils d'immigration.",
+                            "text": "Logiciel de <b>gestion de dossiers d'immigration</b> propulsé par <b>React</b> par MyLegalSoftware, conçu pour rationaliser les dossiers d'immigration pour les professionnels juridiques.",
                             "tags": [
                                 "React",
                                 "Legal Tech",
-                                "Immigration"
+                                "Gestion de Dossiers"
                             ]
                         },
                         "ko": {
-                            "text": "이민 도구와 사건 관리를 제공하는 <b>React</b> 기반 법률 기술 플랫폼입니다.",
+                            "text": "법률 전문가를 위해 이민 사건을 신속하게 관리하도록 설계된 MyLegalSoftware의 <b>React</b> 기반 이민 <b>사건 관리 소프트웨어</b>입니다.",
                             "tags": [
                                 "React",
                                 "법률 기술",
-                                "이민"
+                                "사건 관리"
                             ]
                         }
                     }
@@ -585,7 +585,7 @@
                             }
                         ],
                         "screenshots": [
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642132/amit-portfolio/screens/mylsfrontdesk-screen-1.png"
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642132/amit-portfolio/screens/mylsfrontdesk-screen-1.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
@@ -593,34 +593,34 @@
                     "locales": {
                         "en": {
                             "title": "MLS Front Desk",
-                            "text": "A <b>React</b>-based self-service front desk application for MLS systems, enabling clients to manage their legal service interactions independently.",
+                            "text": "A <b>React</b>-based <b>self-service kiosk</b> for MLS Systems, allowing legal clients to check in, complete intake forms, and manage their appointments independently at the front desk.",
                             "tags": [
                                 "React",
-                                "Self-Service",
+                                "Kiosk",
                                 "Legal"
                             ]
                         },
                         "es": {
-                            "text": "Una aplicación de recepción de autoservicio basada en <b>React</b> para sistemas MLS.",
+                            "text": "<b>Kiosco de autoservicio</b> basado en <b>React</b> para MLS Systems, que permite a clientes legales registrarse y gestionar sus citas de forma independiente.",
                             "tags": [
                                 "React",
-                                "Autoservicio",
+                                "Kiosco",
                                 "Legal"
                             ]
                         },
                         "fr": {
-                            "text": "Une application de réception en libre-service basée sur <b>React</b> pour les systèmes MLS.",
+                            "text": "<b>Kiosque libre-service</b> basé sur <b>React</b> pour MLS Systems, permettant aux clients juridiques de s'enregistrer et gérer leurs rendez-vous de manière autonome.",
                             "tags": [
                                 "React",
-                                "Libre-service",
+                                "Kiosque",
                                 "Juridique"
                             ]
                         },
                         "ko": {
-                            "text": "MLS 시스템을 위한 <b>React</b> 기반 셀프 서비스 프론트 데스크 애플리케이션입니다.",
+                            "text": "법률 고객이 독립적으로 체크인하고 예약을 관리할 수 있는 MLS Systems의 <b>React</b> 기반 <b>셀프 서비스 키오스크</b>입니다.",
                             "tags": [
                                 "React",
-                                "셀프 서비스",
+                                "키오스크",
                                 "법률"
                             ]
                         }
@@ -652,35 +652,35 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Amelie Company",
-                            "text": "A modern corporate website built with <b>Next.js</b>, delivering fast performance, clean design, and a polished digital presence for Amelie Company.",
+                            "title": "Amélie Company",
+                            "text": "Website for <b>Amélie Company</b>, an award-winning full-service <b>creative agency</b> that blends altruism and business to help clients craft impactful brands, built with <b>Next.js</b>.",
                             "tags": [
                                 "Next.js",
-                                "Corporate",
+                                "Creative Agency",
                                 "Web"
                             ]
                         },
                         "es": {
-                            "text": "Un sitio web corporativo moderno construido con <b>Next.js</b>.",
+                            "text": "Sitio web para <b>Amélie Company</b>, una <b>agencia creativa</b> galardonada que combina altruismo y negocios para crear marcas impactantes, construido con <b>Next.js</b>.",
                             "tags": [
                                 "Next.js",
-                                "Corporativo",
+                                "Agencia Creativa",
                                 "Web"
                             ]
                         },
                         "fr": {
-                            "text": "Un site web d'entreprise moderne construit avec <b>Next.js</b>.",
+                            "text": "Site web pour <b>Amélie Company</b>, une <b>agence créative</b> primée qui mêle altruisme et business pour aider les clients à créer des marques percutantes, construit avec <b>Next.js</b>.",
                             "tags": [
                                 "Next.js",
-                                "Entreprise",
+                                "Agence Créative",
                                 "Web"
                             ]
                         },
                         "ko": {
-                            "text": "<b>Next.js</b>로 구축된 현대적인 기업 웹사이트입니다.",
+                            "text": "이타주의와 비즈니스를 결합하여 강력한 브랜드를 만드는 수상 경력의 <b>크리에이티브 에이전시</b> Amélie Company의 <b>Next.js</b> 웹사이트입니다.",
                             "tags": [
                                 "Next.js",
-                                "기업",
+                                "크리에이티브 에이전시",
                                 "웹"
                             ]
                         }
@@ -713,7 +713,7 @@
                     "locales": {
                         "en": {
                             "title": "988 Colorado",
-                            "text": "A <b>Next.js</b> website for Colorado's mental health crisis line, providing accessible resources and support information for individuals in need.",
+                            "text": "A <b>Next.js</b> public service website for <b>Colorado's 988 mental health crisis line</b>, helping residents access support by call, text, or live chat with trained specialists.",
                             "tags": [
                                 "Next.js",
                                 "Mental Health",
@@ -721,7 +721,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un sitio web <b>Next.js</b> para la línea de crisis de salud mental de Colorado.",
+                            "text": "Sitio web de servicio público en <b>Next.js</b> para la <b>línea de crisis de salud mental 988 de Colorado</b>, ayudando a los residentes a acceder a apoyo por llamada, texto o chat.",
                             "tags": [
                                 "Next.js",
                                 "Salud Mental",
@@ -729,7 +729,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un site web <b>Next.js</b> pour la ligne de crise en santé mentale du Colorado.",
+                            "text": "Site web de service public en <b>Next.js</b> pour la <b>ligne de crise de santé mentale 988 du Colorado</b>, aidant les résidents à accéder à un soutien par appel, SMS ou chat.",
                             "tags": [
                                 "Next.js",
                                 "Santé Mentale",
@@ -737,7 +737,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "콜로라도 정신 건강 위기 전화를 위한 <b>Next.js</b> 웹사이트입니다.",
+                            "text": "콜로라도 주민들이 전화, 문자, 라이브 채팅으로 전문가의 지원을 받을 수 있는 <b>콜로라도 988 정신 건강 위기 전화</b> 공공 서비스 <b>Next.js</b> 웹사이트입니다.",
                             "tags": [
                                 "Next.js",
                                 "정신 건강",
@@ -773,35 +773,35 @@
                     "locales": {
                         "en": {
                             "title": "iBusinessFormula",
-                            "text": "A professional <b>HubSpot</b>-designed website for iBusinessFormula, leveraging HubSpot CMS for marketing automation and lead generation.",
+                            "text": "A <b>HubSpot CMS</b> website for iBusinessFormula, a <b>digital marketing agency</b> in NSW, Australia, specialising in website development, marketing, and HubSpot solutions for businesses.",
                             "tags": [
                                 "HubSpot",
-                                "CMS",
-                                "Marketing"
+                                "Digital Marketing",
+                                "CMS"
                             ]
                         },
                         "es": {
-                            "text": "Un sitio web profesional diseñado con <b>HubSpot</b> para iBusinessFormula.",
+                            "text": "Sitio web en <b>HubSpot CMS</b> para iBusinessFormula, una <b>agencia de marketing digital</b> en Nueva Gales del Sur, Australia, especializada en desarrollo web y soluciones HubSpot.",
                             "tags": [
                                 "HubSpot",
-                                "CMS",
-                                "Marketing"
+                                "Marketing Digital",
+                                "CMS"
                             ]
                         },
                         "fr": {
-                            "text": "Un site web professionnel conçu avec <b>HubSpot</b> pour iBusinessFormula.",
+                            "text": "Site web <b>HubSpot CMS</b> pour iBusinessFormula, une <b>agence de marketing digital</b> en Nouvelle-Galles du Sud, Australie, spécialisée dans le développement web et les solutions HubSpot.",
                             "tags": [
                                 "HubSpot",
-                                "CMS",
-                                "Marketing"
+                                "Marketing Digital",
+                                "CMS"
                             ]
                         },
                         "ko": {
-                            "text": "마케팅 자동화를 위한 <b>HubSpot</b> 기반 전문 웹사이트입니다.",
+                            "text": "웹 개발, 마케팅 및 HubSpot 솔루션을 전문으로 하는 호주 NSW의 <b>디지털 마케팅 에이전시</b> iBusinessFormula를 위한 <b>HubSpot CMS</b> 웹사이트입니다.",
                             "tags": [
                                 "HubSpot",
-                                "CMS",
-                                "마케팅"
+                                "디지털 마케팅",
+                                "CMS"
                             ]
                         }
                     }
@@ -833,35 +833,35 @@
                     "locales": {
                         "en": {
                             "title": "Share-Net NL",
-                            "text": "A <b>WordPress</b> theme and site built for Share-Net Netherlands, supporting knowledge sharing in sexual and reproductive health.",
+                            "text": "A <b>WordPress</b> theme and site for <b>Share-Net Netherlands</b>, the Dutch network for sexual and reproductive health and rights (SRHR), connecting members, partners, and communities of practice.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
-                                "NGO"
+                                "SRHR"
                             ]
                         },
                         "es": {
-                            "text": "Un tema y sitio <b>WordPress</b> construido para Share-Net Países Bajos.",
+                            "text": "Tema y sitio <b>WordPress</b> para <b>Share-Net Países Bajos</b>, la red neerlandesa de salud y derechos sexuales y reproductivos (SDSR).",
                             "tags": [
                                 "WordPress",
                                 "Tema",
-                                "ONG"
+                                "SDSR"
                             ]
                         },
                         "fr": {
-                            "text": "Un thème et site <b>WordPress</b> construit pour Share-Net Pays-Bas.",
+                            "text": "Thème et site <b>WordPress</b> pour <b>Share-Net Pays-Bas</b>, le réseau néerlandais pour la santé et les droits sexuels et reproductifs (SDSR).",
                             "tags": [
                                 "WordPress",
                                 "Thème",
-                                "ONG"
+                                "SDSR"
                             ]
                         },
                         "ko": {
-                            "text": "Share-Net 네덜란드를 위해 구축된 <b>WordPress</b> 테마 및 사이트입니다.",
+                            "text": "성 및 생식 건강과 권리(SRHR)를 위한 네덜란드 네트워크 <b>Share-Net Netherlands</b>를 위한 <b>WordPress</b> 테마 및 사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
-                                "NGO"
+                                "SRHR"
                             ]
                         }
                     }
@@ -892,36 +892,36 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Please Project",
-                            "text": "A <b>WordPress</b> site developed for the Please Project, focused on promoting inclusive education and community engagement.",
+                            "title": "PLEASE Project",
+                            "text": "A <b>WordPress</b> site for the <b>Plastic Free Rivers and Seas for South Asia</b> project — a World Bank-funded regional initiative by SACEP tackling plastic pollution across 8 South Asian countries.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
-                                "Education"
+                                "Environment"
                             ]
                         },
                         "es": {
-                            "text": "Un sitio <b>WordPress</b> desarrollado para el Please Project.",
+                            "text": "Sitio <b>WordPress</b> para el proyecto <b>Plastic Free Rivers and Seas for South Asia</b>, iniciativa regional financiada por el Banco Mundial para combatir la contaminación plástica en Asia del Sur.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
-                                "Educación"
+                                "Medio Ambiente"
                             ]
                         },
                         "fr": {
-                            "text": "Un site <b>WordPress</b> développé pour le Please Project.",
+                            "text": "Site <b>WordPress</b> pour le projet <b>Plastic Free Rivers and Seas for South Asia</b>, une initiative régionale financée par la Banque mondiale pour lutter contre la pollution plastique en Asie du Sud.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
-                                "Éducation"
+                                "Environnement"
                             ]
                         },
                         "ko": {
-                            "text": "Please Project를 위해 개발된 <b>WordPress</b> 사이트입니다.",
+                            "text": "남아시아 8개국의 플라스틱 오염을 해결하기 위한 세계은행 지원 지역 이니셔티브 <b>Plastic Free Rivers and Seas for South Asia</b> 프로젝트의 <b>WordPress</b> 사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
-                                "교육"
+                                "환경"
                             ]
                         }
                     }
@@ -953,7 +953,7 @@
                     "locales": {
                         "en": {
                             "title": "IPDC Climate Action",
-                            "text": "A <b>WordPress</b> website for IPDC Climate Action, raising awareness and driving engagement around climate change initiatives.",
+                            "text": "A <b>WordPress</b> site for the <b>International Panel for Deltas, Coastal Areas and Islands (IPDC)</b>, an international platform helping vulnerable regions accelerate climate adaptation through shared knowledge and action.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
@@ -961,7 +961,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un sitio <b>WordPress</b> para IPDC Climate Action.",
+                            "text": "Sitio <b>WordPress</b> para el <b>Panel Internacional para Deltas, Zonas Costeras e Islas (IPDC)</b>, plataforma internacional que ayuda a regiones vulnerables a acelerar la adaptación climática.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
@@ -969,7 +969,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un site <b>WordPress</b> pour IPDC Climate Action.",
+                            "text": "Site <b>WordPress</b> pour le <b>Panel International pour les Deltas, Zones Côtières et Îles (IPDC)</b>, plateforme internationale aidant les régions vulnérables à accélérer l'adaptation climatique.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
@@ -977,7 +977,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "기후 변화 이니셔티브를 위한 <b>WordPress</b> 웹사이트입니다.",
+                            "text": "기후 변화에 취약한 삼각주, 해안 지역 및 섬들이 기후 적응을 가속화할 수 있도록 지원하는 <b>국제 삼각주·해안·섬 패널(IPDC)</b>의 <b>WordPress</b> 사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
@@ -1013,7 +1013,7 @@
                     "locales": {
                         "en": {
                             "title": "DWASA DSIP",
-                            "text": "A <b>WordPress</b> site for DWASA's Dhaka Sanitation Improvement Project, supporting water and sanitation development in Bangladesh.",
+                            "text": "A <b>WordPress</b> site for the <b>Dhaka Sanitation Improvement Project (DSIP)</b> under DWASA, supporting sanitation infrastructure development and public health initiatives in Dhaka, Bangladesh.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
@@ -1021,7 +1021,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un sitio <b>WordPress</b> para el Proyecto de Mejora de Saneamiento de DWASA.",
+                            "text": "Sitio <b>WordPress</b> para el <b>Proyecto de Mejora del Saneamiento de Dhaka (DSIP)</b> bajo DWASA, apoyando el desarrollo de infraestructura sanitaria en Dhaka, Bangladesh.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
@@ -1029,7 +1029,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un site <b>WordPress</b> pour le projet d'amélioration de l'assainissement de DWASA.",
+                            "text": "Site <b>WordPress</b> pour le <b>Projet d'Amélioration de l'Assainissement de Dhaka (DSIP)</b> sous DWASA, soutenant le développement des infrastructures sanitaires à Dhaka, Bangladesh.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
@@ -1037,7 +1037,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "방글라데시 DWASA 위생 개선 프로젝트를 위한 <b>WordPress</b> 사이트입니다.",
+                            "text": "방글라데시 다카의 위생 인프라 개발을 지원하는 DWASA 산하 <b>다카 위생 개선 프로젝트(DSIP)</b>의 <b>WordPress</b> 사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
@@ -1073,7 +1073,7 @@
                     "locales": {
                         "en": {
                             "title": "Pledge Harbor",
-                            "text": "A <b>WordPress</b> platform for Pledge Harbor, facilitating commitment-based community initiatives and fundraising campaigns.",
+                            "text": "A <b>WordPress</b> platform for <b>Pledge Harbor</b>, facilitating commitment-based community initiatives and fundraising campaigns.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
@@ -1081,7 +1081,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una plataforma <b>WordPress</b> para Pledge Harbor.",
+                            "text": "Plataforma <b>WordPress</b> para <b>Pledge Harbor</b>, facilitando iniciativas comunitarias y campañas de recaudación de fondos.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
@@ -1089,7 +1089,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une plateforme <b>WordPress</b> pour Pledge Harbor.",
+                            "text": "Plateforme <b>WordPress</b> pour <b>Pledge Harbor</b>, facilitant les initiatives communautaires et les campagnes de collecte de fonds.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
@@ -1097,7 +1097,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "커뮤니티 이니셔티브를 위한 <b>WordPress</b> 플랫폼입니다.",
+                            "text": "커뮤니티 이니셔티브 및 모금 캠페인을 지원하는 <b>Pledge Harbor</b>의 <b>WordPress</b> 플랫폼입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
@@ -1133,7 +1133,7 @@
                     "locales": {
                         "en": {
                             "title": "Viyellatex Group",
-                            "text": "A corporate <b>WordPress</b> website for Viyellatex Group, one of Bangladesh's leading garment and textile manufacturers.",
+                            "text": "Corporate <b>WordPress</b> website for <b>Viyellatex Group</b>, a vertically integrated end-to-end apparel conglomerate in Bangladesh employing over 15,000 workers across knit manufacturing, spinning, and logistics.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
@@ -1141,7 +1141,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un sitio web corporativo <b>WordPress</b> para Viyellatex Group.",
+                            "text": "Sitio web corporativo <b>WordPress</b> para <b>Viyellatex Group</b>, un conglomerado textil bangladesí integrado verticalmente con más de 15.000 empleados.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
@@ -1149,7 +1149,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un site web d'entreprise <b>WordPress</b> pour Viyellatex Group.",
+                            "text": "Site web d'entreprise <b>WordPress</b> pour <b>Viyellatex Group</b>, un conglomérat textile bangladais intégré verticalement avec plus de 15 000 employés.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
@@ -1157,7 +1157,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "방글라데시 주요 섬유 제조업체 Viyellatex Group의 <b>WordPress</b> 기업 웹사이트입니다.",
+                            "text": "15,000명 이상의 직원을 보유한 방글라데시 수직 통합 의류 대기업 <b>Viyellatex Group</b>의 기업 <b>WordPress</b> 웹사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
@@ -1184,44 +1184,44 @@
                             }
                         ],
                         "screenshots": [
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642135/amit-portfolio/screens/nzbd-screen-1.png",
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642136/amit-portfolio/screens/nzbd-screen-2.png"
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642135/amit-portfolio/screens/nzbd-screen-1.png",
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642136/amit-portfolio/screens/nzbd-screen-2.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "NZ-BD",
-                            "text": "A <b>WordPress</b> website for NZ-BD, supporting bilateral ties and community services between New Zealand and Bangladesh.",
+                            "title": "NZ Group",
+                            "text": "Corporate <b>WordPress</b> website for <b>NZ Group</b>, a leading knit apparel manufacturer in Bangladesh, showcasing their sustainability, CSR initiatives, and group companies.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
-                                "Community"
+                                "Apparel"
                             ]
                         },
                         "es": {
-                            "text": "Un sitio <b>WordPress</b> para NZ-BD.",
+                            "text": "Sitio web corporativo <b>WordPress</b> para <b>NZ Group</b>, fabricante líder de prendas de punto en Bangladesh.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
-                                "Comunidad"
+                                "Confección"
                             ]
                         },
                         "fr": {
-                            "text": "Un site <b>WordPress</b> pour NZ-BD.",
+                            "text": "Site web d'entreprise <b>WordPress</b> pour <b>NZ Group</b>, fabricant leader de vêtements en maille au Bangladesh.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
-                                "Communauté"
+                                "Habillement"
                             ]
                         },
                         "ko": {
-                            "text": "뉴질랜드와 방글라데시 커뮤니티 서비스를 위한 <b>WordPress</b> 웹사이트입니다.",
+                            "text": "방글라데시 선도적인 니트 의류 제조업체 <b>NZ Group</b>의 지속 가능성 및 CSR 이니셔티브를 소개하는 기업 <b>WordPress</b> 웹사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
-                                "커뮤니티"
+                                "의류"
                             ]
                         }
                     }
@@ -1244,7 +1244,7 @@
                             }
                         ],
                         "screenshots": [
-                           "https://res.cloudinary.com/sumitdey/image/upload/v1774642104/amit-portfolio/screens/eightarms-screen-1.png",
+                            "https://res.cloudinary.com/sumitdey/image/upload/v1774642104/amit-portfolio/screens/eightarms-screen-1.png",
                             "https://res.cloudinary.com/sumitdey/image/upload/v1774642105/amit-portfolio/screens/eightarms-screen-2.png"
                         ],
                         "screenshotsAspectRatio": "16:9",
@@ -1253,35 +1253,35 @@
                     "locales": {
                         "en": {
                             "title": "Eight Arms",
-                            "text": "A creative <b>WordPress</b> site for Eight Arms, a UK-based agency, showcasing their services and portfolio with a bold visual identity.",
+                            "text": "A <b>WordPress</b> site for <b>Eight Arms</b>, a UK-based <b>branding and digital design agency</b> that designs and builds digital experiences with lasting impact for clients worldwide.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
-                                "Agency"
+                                "Design Agency"
                             ]
                         },
                         "es": {
-                            "text": "Un sitio <b>WordPress</b> creativo para Eight Arms, una agencia del Reino Unido.",
+                            "text": "Sitio <b>WordPress</b> para <b>Eight Arms</b>, agencia británica de <b>branding y diseño digital</b> que crea experiencias digitales de impacto duradero.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
-                                "Agencia"
+                                "Agencia de Diseño"
                             ]
                         },
                         "fr": {
-                            "text": "Un site <b>WordPress</b> créatif pour Eight Arms, une agence britannique.",
+                            "text": "Site <b>WordPress</b> pour <b>Eight Arms</b>, agence britannique de <b>branding et design digital</b> qui crée des expériences numériques à impact durable.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
-                                "Agence"
+                                "Agence de Design"
                             ]
                         },
                         "ko": {
-                            "text": "영국 기반 에이전시 Eight Arms를 위한 크리에이티브 <b>WordPress</b> 사이트입니다.",
+                            "text": "영속적인 영향력을 가진 디지털 경험을 만드는 영국의 <b>브랜딩 및 디지털 디자인 에이전시</b> Eight Arms의 <b>WordPress</b> 사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
-                                "에이전시"
+                                "디자인 에이전시"
                             ]
                         }
                     }
@@ -1312,8 +1312,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Ride Bustang",
-                            "text": "A <b>WordPress</b> website for Ride Bustang, Colorado's intercity bus service, providing schedules, routes, and ticket information.",
+                            "title": "Bustang",
+                            "text": "A <b>WordPress</b> site for <b>Bustang</b>, Colorado's state-operated intercity bus service, providing routes, schedules, trip planning, and ticket purchasing across Colorado.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
@@ -1321,7 +1321,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un sitio <b>WordPress</b> para Ride Bustang, el servicio de autobuses interurbanos de Colorado.",
+                            "text": "Sitio <b>WordPress</b> para <b>Bustang</b>, el servicio de autobuses interurbanos operado por el estado de Colorado, con rutas, horarios y compra de billetes.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
@@ -1329,7 +1329,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un site <b>WordPress</b> pour Ride Bustang, le service de bus interurbain du Colorado.",
+                            "text": "Site <b>WordPress</b> pour <b>Bustang</b>, le service de bus interurbain opéré par l'État du Colorado, avec routes, horaires et achat de billets.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
@@ -1337,7 +1337,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "콜로라도 시외버스 서비스 Ride Bustang을 위한 <b>WordPress</b> 웹사이트입니다.",
+                            "text": "콜로라도 주 운영 시외버스 서비스 <b>Bustang</b>의 노선, 시간표, 여행 계획 및 티켓 구매를 제공하는 <b>WordPress</b> 사이트입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
@@ -1372,7 +1372,7 @@
                     "locales": {
                         "en": {
                             "title": "CLH Immunisation BD",
-                            "text": "A <b>WordPress</b> health platform for CLH Immunisation Bangladesh, delivering vaccination resources and public health information.",
+                            "text": "A <b>WordPress</b> knowledge platform for the <b>Country Learning Hub for Immunisation Equity in Bangladesh</b>, a Gavi & icddr,b initiative working to reach zero-dose and under-immunised children.",
                             "tags": [
                                 "WordPress",
                                 "Theme",
@@ -1380,7 +1380,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Una plataforma de salud <b>WordPress</b> para CLH Immunisation Bangladesh.",
+                            "text": "Plataforma de conocimiento <b>WordPress</b> para el <b>Centro de Aprendizaje País para la Equidad en Inmunización en Bangladesh</b>, iniciativa de Gavi e icddr,b.",
                             "tags": [
                                 "WordPress",
                                 "Tema",
@@ -1388,7 +1388,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Une plateforme de santé <b>WordPress</b> pour CLH Immunisation Bangladesh.",
+                            "text": "Plateforme de connaissances <b>WordPress</b> pour le <b>Centre d'Apprentissage Pays pour l'Équité en Immunisation au Bangladesh</b>, initiative de Gavi et icddr,b.",
                             "tags": [
                                 "WordPress",
                                 "Thème",
@@ -1396,7 +1396,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "방글라데시 예방접종 자원을 위한 <b>WordPress</b> 건강 플랫폼입니다.",
+                            "text": "미접종 및 불완전 접종 아동에게 다가가기 위한 Gavi 및 icddr,b 이니셔티브인 <b>방글라데시 예방접종 형평성 국가 학습 허브</b>의 <b>WordPress</b> 지식 플랫폼입니다.",
                             "tags": [
                                 "WordPress",
                                 "테마",
@@ -1432,35 +1432,35 @@
                     "locales": {
                         "en": {
                             "title": "Lift the Label",
-                            "text": "A fully <b>custom WordPress theme</b> built for Lift the Label, an advocacy platform raising awareness around modern slavery in supply chains.",
+                            "text": "A fully <b>custom WordPress theme</b> for <b>Lift the Label</b>, a Colorado Behavioral Health Administration campaign funded by SAMHSA to reduce <b>addiction stigma</b> and connect people with substance use disorder treatment.",
                             "tags": [
                                 "WordPress",
                                 "Custom Theme",
-                                "Advocacy"
+                                "Public Health"
                             ]
                         },
                         "es": {
-                            "text": "Un <b>tema WordPress personalizado</b> construido para Lift the Label.",
+                            "text": "Tema <b>WordPress personalizado</b> para <b>Lift the Label</b>, campaña de la Administración de Salud Conductual de Colorado para reducir el <b>estigma de la adicción</b>.",
                             "tags": [
                                 "WordPress",
                                 "Tema Personalizado",
-                                "Defensa"
+                                "Salud Pública"
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>thème WordPress personnalisé</b> construit pour Lift the Label.",
+                            "text": "Thème <b>WordPress personnalisé</b> pour <b>Lift the Label</b>, campagne de l'Administration de Santé Comportementale du Colorado pour réduire la <b>stigmatisation de l'addiction</b>.",
                             "tags": [
                                 "WordPress",
                                 "Thème Personnalisé",
-                                "Plaidoyer"
+                                "Santé Publique"
                             ]
                         },
                         "ko": {
-                            "text": "공급망 내 현대 노예제 인식을 위한 완전 <b>커스텀 WordPress 테마</b>입니다.",
+                            "text": "약물 사용 장애에 대한 <b>중독 낙인을 줄이고</b> 치료 연계를 지원하는 콜로라도 행동 건강 관리국 SAMHSA 지원 캠페인 <b>Lift the Label</b>의 완전 <b>커스텀 WordPress 테마</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "커스텀 테마",
-                                "옹호"
+                                "공중 보건"
                             ]
                         }
                     }
@@ -1492,7 +1492,7 @@
                     "locales": {
                         "en": {
                             "title": "Rekel Producties",
-                            "text": "Custom <b>WordPress</b> development and modifications for Rekel Producties, a Dutch production company, enhancing functionality and visual presentation.",
+                            "text": "Custom <b>WordPress</b> development and modifications for <b>Rekel Producties</b>, a Dutch production company, enhancing functionality and visual presentation of their web presence.",
                             "tags": [
                                 "WordPress",
                                 "Customization",
@@ -1500,7 +1500,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Desarrollo y modificaciones personalizadas de <b>WordPress</b> para Rekel Producties.",
+                            "text": "Desarrollo y modificaciones personalizadas de <b>WordPress</b> para <b>Rekel Producties</b>, empresa de producción neerlandesa.",
                             "tags": [
                                 "WordPress",
                                 "Personalización",
@@ -1508,7 +1508,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Développement et modifications <b>WordPress</b> personnalisés pour Rekel Producties.",
+                            "text": "Développement et modifications <b>WordPress</b> personnalisés pour <b>Rekel Producties</b>, société de production néerlandaise.",
                             "tags": [
                                 "WordPress",
                                 "Personnalisation",
@@ -1516,7 +1516,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "Rekel Producties를 위한 맞춤형 <b>WordPress</b> 개발 및 수정입니다.",
+                            "text": "네덜란드 프로덕션 회사 <b>Rekel Producties</b>의 기능과 시각적 표현을 향상시키기 위한 맞춤형 <b>WordPress</b> 개발 및 수정입니다.",
                             "tags": [
                                 "WordPress",
                                 "커스터마이징",
@@ -1528,7 +1528,7 @@
                 {
                     "id": 25,
                     "categoryId": "category_wordpress_customization",
-                   "img": "/images/favicons/todd-devine.png",
+                    "img": "/images/favicons/todd-devine.png",
                     "faIcon": "fa-solid fa-sliders",
                     "faIconColors": {
                         "bg": "#1a1a3a",
@@ -1552,7 +1552,7 @@
                     "locales": {
                         "en": {
                             "title": "Todd Devine",
-                            "text": "Custom <b>WordPress</b> modifications for Todd Devine, an Australian professional, tailoring the site to fit his personal brand and services.",
+                            "text": "Custom <b>WordPress</b> modifications for <b>Todd Devine</b>, an Australian professional, tailoring the site to fit his personal brand and service offerings.",
                             "tags": [
                                 "WordPress",
                                 "Customization",
@@ -1560,7 +1560,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Modificaciones personalizadas de <b>WordPress</b> para Todd Devine.",
+                            "text": "Modificaciones personalizadas de <b>WordPress</b> para <b>Todd Devine</b>, profesional australiano.",
                             "tags": [
                                 "WordPress",
                                 "Personalización",
@@ -1568,7 +1568,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Modifications <b>WordPress</b> personnalisées pour Todd Devine.",
+                            "text": "Modifications <b>WordPress</b> personnalisées pour <b>Todd Devine</b>, un professionnel australien.",
                             "tags": [
                                 "WordPress",
                                 "Personnalisation",
@@ -1576,7 +1576,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "Todd Devine의 개인 브랜드를 위한 맞춤형 <b>WordPress</b> 수정입니다.",
+                            "text": "호주 전문가 <b>Todd Devine</b>의 개인 브랜드와 서비스에 맞게 맞춤화된 <b>WordPress</b> 수정 작업입니다.",
                             "tags": [
                                 "WordPress",
                                 "커스터마이징",
@@ -1612,7 +1612,7 @@
                     "locales": {
                         "en": {
                             "title": "Starfish Kids",
-                            "text": "Custom <b>WordPress</b> development for Starfish Kids, an Australian children's therapy service, improving UX and extending platform capabilities.",
+                            "text": "Custom <b>WordPress</b> development for <b>Starfish Kids</b>, an Australian children's therapy service, improving user experience and extending platform capabilities.",
                             "tags": [
                                 "WordPress",
                                 "Customization",
@@ -1620,7 +1620,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Desarrollo personalizado de <b>WordPress</b> para Starfish Kids.",
+                            "text": "Desarrollo personalizado de <b>WordPress</b> para <b>Starfish Kids</b>, servicio australiano de terapia infantil.",
                             "tags": [
                                 "WordPress",
                                 "Personalización",
@@ -1628,7 +1628,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Développement <b>WordPress</b> personnalisé pour Starfish Kids.",
+                            "text": "Développement <b>WordPress</b> personnalisé pour <b>Starfish Kids</b>, service australien de thérapie pour enfants.",
                             "tags": [
                                 "WordPress",
                                 "Personnalisation",
@@ -1636,7 +1636,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "호주 아동 치료 서비스 Starfish Kids를 위한 맞춤형 <b>WordPress</b> 개발입니다.",
+                            "text": "호주 아동 치료 서비스 <b>Starfish Kids</b>의 사용자 경험 개선 및 플랫폼 기능 확장을 위한 맞춤형 <b>WordPress</b> 개발입니다.",
                             "tags": [
                                 "WordPress",
                                 "커스터마이징",
@@ -1672,7 +1672,7 @@
                     "locales": {
                         "en": {
                             "title": "Share-Net Post Approval",
-                            "text": "A custom <b>WordPress plugin</b> implementing a structured <b>post approval workflow</b> for Share-Net International, enabling editorial control over published content.",
+                            "text": "A custom <b>WordPress plugin</b> implementing a structured <b>post approval workflow</b> for Share-Net International, giving editors control over content before it goes live across the network.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1680,7 +1680,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin WordPress</b> personalizado con un flujo de trabajo de <b>aprobación de publicaciones</b>.",
+                            "text": "<b>Plugin WordPress</b> personalizado con flujo de trabajo de <b>aprobación de publicaciones</b> para Share-Net International.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1688,7 +1688,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin WordPress</b> personnalisé avec un flux de travail d'<b>approbation des publications</b>.",
+                            "text": "<b>Plugin WordPress</b> personnalisé implémentant un flux de travail d'<b>approbation des publications</b> pour Share-Net International.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1696,7 +1696,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "Share-Net International을 위한 맞춤형 <b>게시물 승인 워크플로우 WordPress 플러그인</b>입니다.",
+                            "text": "Share-Net International을 위해 게시 전 편집자 제어를 위한 구조화된 <b>게시물 승인 워크플로우</b>를 구현한 맞춤형 <b>WordPress 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "플러그인",
@@ -1732,7 +1732,7 @@
                     "locales": {
                         "en": {
                             "title": "Share-Net Hub Connector",
-                            "text": "A custom <b>WordPress plugin</b> enabling <b>cross-site hub connectivity</b> across Share-Net's international network, synchronizing content between regional sites.",
+                            "text": "A custom <b>WordPress plugin</b> enabling <b>cross-site content synchronisation</b> across Share-Net's international hub network, connecting regional sites under a unified knowledge sharing architecture.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1740,7 +1740,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin WordPress</b> que permite la <b>conectividad entre sitios</b> en la red internacional de Share-Net.",
+                            "text": "<b>Plugin WordPress</b> personalizado que permite la <b>sincronización de contenido entre sitios</b> en la red internacional de Share-Net.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1748,7 +1748,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin WordPress</b> permettant la <b>connectivité inter-sites</b> dans le réseau international de Share-Net.",
+                            "text": "<b>Plugin WordPress</b> personnalisé permettant la <b>synchronisation de contenu inter-sites</b> dans le réseau international de Share-Net.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1756,7 +1756,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "Share-Net 국제 네트워크의 <b>사이트 간 허브 연결</b>을 지원하는 맞춤형 <b>WordPress 플러그인</b>입니다.",
+                            "text": "Share-Net 국제 허브 네트워크 전반의 지역 사이트를 통합 지식 공유 아키텍처로 연결하는 <b>사이트 간 콘텐츠 동기화</b> 맞춤형 <b>WordPress 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "플러그인",
@@ -1791,7 +1791,7 @@
                     "locales": {
                         "en": {
                             "title": "Lukebox Studios Booking",
-                            "text": "A custom <b>WordPress studio booking plugin</b> for Lukebox Studios, allowing clients to browse availability and reserve recording studio time online.",
+                            "text": "A custom <b>WordPress studio booking plugin</b> for Lukebox Studios, allowing clients to check availability and reserve recording studio time online directly from the website.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1799,7 +1799,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin de reservas de estudio WordPress</b> personalizado para Lukebox Studios.",
+                            "text": "<b>Plugin WordPress de reservas de estudio</b> personalizado para Lukebox Studios, permitiendo reservar tiempo de grabación en línea.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1807,7 +1807,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin de réservation de studio WordPress</b> personnalisé pour Lukebox Studios.",
+                            "text": "<b>Plugin WordPress de réservation de studio</b> personnalisé pour Lukebox Studios, permettant de réserver du temps de studio d'enregistrement en ligne.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1815,7 +1815,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "Lukebox Studios를 위한 맞춤형 <b>WordPress 스튜디오 예약 플러그인</b>입니다.",
+                            "text": "고객이 웹사이트에서 직접 녹음 스튜디오 시간을 예약할 수 있는 Lukebox Studios의 맞춤형 <b>WordPress 스튜디오 예약 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "플러그인",
@@ -1841,14 +1841,14 @@
                                 "faIcon": "fa-brands fa-github"
                             }
                         ],
-                        "screenshots": [ ],
+                        "screenshots": [],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
                             "title": "tm_openai_trained",
-                            "text": "An <b>OpenAI-trained chatbot WordPress plugin</b>, integrating fine-tuned language models into WordPress sites for intelligent conversational experiences.",
+                            "text": "An open-source <b>WordPress plugin</b> that integrates <b>OpenAI fine-tuned models</b> into WordPress sites, enabling intelligent chatbot experiences trained on custom data.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1856,7 +1856,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin WordPress de chatbot entrenado con OpenAI</b>.",
+                            "text": "<b>Plugin WordPress</b> de código abierto que integra <b>modelos fine-tuned de OpenAI</b> en sitios WordPress para experiencias de chatbot inteligente.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1864,7 +1864,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin WordPress de chatbot entraîné par OpenAI</b>.",
+                            "text": "<b>Plugin WordPress</b> open-source intégrant des <b>modèles OpenAI fine-tunés</b> dans des sites WordPress pour des expériences de chatbot intelligent.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1872,7 +1872,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "WordPress 사이트에 파인튜닝된 언어 모델을 통합하는 <b>OpenAI 훈련 챗봇 WordPress 플러그인</b>입니다.",
+                            "text": "커스텀 데이터로 훈련된 지능형 챗봇 경험을 위해 <b>OpenAI 파인튜닝 모델</b>을 WordPress 사이트에 통합하는 오픈소스 <b>WordPress 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "플러그인",
@@ -1898,14 +1898,14 @@
                                 "faIcon": "fa-brands fa-github"
                             }
                         ],
-                        "screenshots": [ ],
+                        "screenshots": [],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
                             "title": "lm_tools",
-                            "text": "A utility <b>WordPress plugin</b> providing a collection of helpful tools and enhancements for WordPress-based projects.",
+                            "text": "An open-source <b>WordPress utility plugin</b> providing a collection of helpful tools and developer enhancements for WordPress-based projects.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1913,7 +1913,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin WordPress</b> de utilidades con herramientas útiles.",
+                            "text": "<b>Plugin de utilidades WordPress</b> de código abierto con herramientas útiles para proyectos basados en WordPress.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1921,7 +1921,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin WordPress</b> utilitaire avec des outils pratiques.",
+                            "text": "<b>Plugin utilitaire WordPress</b> open-source fournissant des outils utiles pour les projets basés sur WordPress.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1929,7 +1929,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "WordPress 프로젝트를 위한 다양한 도구를 제공하는 유틸리티 <b>WordPress 플러그인</b>입니다.",
+                            "text": "WordPress 기반 프로젝트를 위한 유용한 도구와 개발자 향상 기능을 제공하는 오픈소스 <b>WordPress 유틸리티 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "플러그인",
@@ -1955,14 +1955,14 @@
                                 "faIcon": "fa-brands fa-github"
                             }
                         ],
-                        "screenshots": [ ],
+                        "screenshots": [],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
                             "title": "lf-frontend-submission",
-                            "text": "A <b>WordPress plugin</b> enabling <b>frontend form submissions</b>, allowing users to submit content directly from the front end without accessing the admin panel.",
+                            "text": "An open-source <b>WordPress plugin</b> enabling <b>frontend content submission</b>, allowing users to submit posts and data from the front end without needing access to the WordPress admin panel.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1970,7 +1970,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin WordPress</b> que permite <b>envíos de formularios desde el frontend</b>.",
+                            "text": "<b>Plugin WordPress</b> de código abierto que permite <b>envío de contenido desde el frontend</b> sin acceso al panel de administración.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1978,7 +1978,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin WordPress</b> permettant des <b>soumissions de formulaires frontend</b>.",
+                            "text": "<b>Plugin WordPress</b> open-source permettant la <b>soumission de contenu frontend</b> sans accès au panneau d'administration.",
                             "tags": [
                                 "WordPress",
                                 "Plugin",
@@ -1986,7 +1986,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "관리자 패널 없이 프론트엔드에서 콘텐츠를 제출할 수 있는 <b>WordPress 플러그인</b>입니다.",
+                            "text": "WordPress 관리자 패널 접근 없이 프론트엔드에서 게시물과 데이터를 제출할 수 있는 오픈소스 <b>WordPress 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "플러그인",
@@ -2012,14 +2012,14 @@
                                 "faIcon": "fa-brands fa-github"
                             }
                         ],
-                        "screenshots": [ ],
+                        "screenshots": [],
                         "screenshotsAspectRatio": "16:9",
                         "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
                             "title": "lf-wc-checkout-manager",
-                            "text": "A <b>WooCommerce checkout manager plugin</b> providing advanced control over checkout fields, layout, and logic for WordPress e-commerce stores.",
+                            "text": "An open-source <b>WooCommerce checkout manager plugin</b> providing granular control over checkout fields, layout, and conditional logic for WordPress e-commerce stores.",
                             "tags": [
                                 "WordPress",
                                 "WooCommerce",
@@ -2027,7 +2027,7 @@
                             ]
                         },
                         "es": {
-                            "text": "Un <b>plugin de gestión de checkout de WooCommerce</b> con control avanzado.",
+                            "text": "<b>Plugin gestor de checkout de WooCommerce</b> de código abierto con control granular sobre campos y lógica condicional.",
                             "tags": [
                                 "WordPress",
                                 "WooCommerce",
@@ -2035,7 +2035,7 @@
                             ]
                         },
                         "fr": {
-                            "text": "Un <b>plugin de gestion du checkout WooCommerce</b> avec contrôle avancé.",
+                            "text": "<b>Plugin gestionnaire de checkout WooCommerce</b> open-source offrant un contrôle granulaire sur les champs et la logique conditionnelle.",
                             "tags": [
                                 "WordPress",
                                 "WooCommerce",
@@ -2043,7 +2043,7 @@
                             ]
                         },
                         "ko": {
-                            "text": "WordPress 이커머스 스토어를 위한 <b>WooCommerce 체크아웃 관리 플러그인</b>입니다.",
+                            "text": "WordPress 이커머스 스토어의 결제 필드, 레이아웃 및 조건부 로직을 세밀하게 제어하는 오픈소스 <b>WooCommerce 체크아웃 관리 플러그인</b>입니다.",
                             "tags": [
                                 "WordPress",
                                 "WooCommerce",
